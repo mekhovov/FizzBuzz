@@ -7,7 +7,9 @@ program printing numbers from 1 to 100 but:
 *   "FIZZ BUZZ" instead of multiples of 3 and 5
 
 
-*   Tests
+Hot to run:
+---------
+*   just call
 
         ruby main.rb
 
@@ -25,6 +27,12 @@ What included:
 *   RDoc
 
         ./doc/index.html
+
+*   Cede Metrics
+
+        metric_fu -r --no-reek
+
+        ./tmp/metric_fu/output/index.html
 
 *   CodeSmells
 

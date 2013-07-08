@@ -5,7 +5,8 @@ gem 'rspec'
 
 # coverege
 gem 'simplecov'
-gem 'reek'
+gem 'simplecov-rcov-text'
+gem 'metric_fu'
 # gem 'rails_best_practices'
 
 # debugging
