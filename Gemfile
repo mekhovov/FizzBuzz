@@ -5,7 +5,8 @@ gem 'rspec'
 
 # coverege
 gem 'simplecov'
-gem 'rails_best_practices'
+gem 'reek'
+# gem 'rails_best_practices'
 
 # debugging
 # gem 'awesome_print'
