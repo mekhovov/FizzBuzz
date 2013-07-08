@@ -1,0 +1,41 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/alex/work/my_projects/fizz-buzz/fizz_buzz.rb": [
+        null,
+        1,
+        1,
+        null,
+        1,
+        8,
+        8,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        107,
+        null,
+        null,
+        1,
+        107,
+        null,
+        null,
+        1,
+        null,
+        1,
+        7,
+        105,
+        105,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1373306201
+  }
+}
